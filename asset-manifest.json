@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Tesal_clone/static/css/main.4be39dba.css",
+    "main.js": "/Tesal_clone/static/js/main.f570ee18.js",
+    "static/js/787.860837ff.chunk.js": "/Tesal_clone/static/js/787.860837ff.chunk.js",
+    "static/media/logo.svg": "/Tesal_clone/static/media/logo.b2e5a01e505f739f1484b881277d5186.svg",
+    "index.html": "/Tesal_clone/index.html",
+    "main.4be39dba.css.map": "/Tesal_clone/static/css/main.4be39dba.css.map",
+    "main.f570ee18.js.map": "/Tesal_clone/static/js/main.f570ee18.js.map",
+    "787.860837ff.chunk.js.map": "/Tesal_clone/static/js/787.860837ff.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4be39dba.css",
+    "static/js/main.f570ee18.js"
+  ]
+}
